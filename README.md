@@ -13,6 +13,14 @@ using ESP32 or ESP8266.
 
 ![block diagram](docs/BrowsePage.png)
 
+## Getting Started
+
+* Download the full repository using zip or git
+* Open the folder "AutoConnectUpload" using Visual Studio Code (with PlatformIO already installed)
+* Only the very first time, initialize the ESP32 SPIFFS by the PlatformIO "Upload Filesystem Image" command
+* Build the PlatformIO AutoConnectUpload project
+* Upload it to the ESP32
+* The AutoConnect software will create a WiFi hotspot with name esp32ap and password 12345678 where you ha 
 
 ## License
 
