@@ -5,7 +5,7 @@
   AutoConnectUpload uploads files from the HTTP client to SPIFFS and
   lets a user to delete or play (not implemented) them.
   with its file name. To run this example successfully, you need to
-  initialize the SPIFFS by the PlatfromIO "Upload Filesystem Image" command.
+  initialize the SPIFFS by the PlatformIO "Upload Filesystem Image" command.
   */
 
 
